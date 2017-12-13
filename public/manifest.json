@@ -1,0 +1,30 @@
+{
+  "name": "vikas PWA",
+  "short_name": "vikas short PWA name",
+  "start_url":".",
+  "display":"standalone",
+  "orientation":"portrait",
+  "background_color":"#ccc",
+  "theme_color":"#5faae5",
+  "icons":[{
+    "sizes":"144x144",
+    "src":"src/images/icons/app-icon-144x144.png",
+    "type": "image/png"
+  },
+    {
+      "sizes":"96x96",
+      "src":"src/images/icons/app-icon-96x96.png",
+      "type":"image/png"
+    },
+    {
+      "sizes":"256x256",
+      "src":"src/images/icons/app-icon-256x256.png",
+      "type":"image/png"
+    },
+    {
+      "sizes":"512x512",
+      "src":"src/images/icons/app-icon-512x512.png",
+      "type":"image/png"
+    }]
+
+}
