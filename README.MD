@@ -1,4 +1,5 @@
 # A simple example PWA
+Live at [https://js-pwa.firebaseapp.com/]
 This project was built as part of a YouTube video on [https://youtube.com/c/academind](https://youtube.com/c/academind).
 
 # Usage
